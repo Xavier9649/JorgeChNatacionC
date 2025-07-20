@@ -1,0 +1,100 @@
+Cuestionario de 20 preguntas
+1.	¿Qué es la encapsulación en la programación orientada a objetos?
+a.	Esconder el código fuente.
+b.	Limitar el acceso directo a los atributos de una clase.
+c.	Crear múltiples clases en un archivo.
+d.	Crear interfaces entre clases.
+
+2.	¿Cuál es el propósito del término super en Java?
+a.	Crear un nuevo método.
+b.	Llamar a métodos de una clase externa.
+c.	Acceder a los métodos o constructores de la clase principal.
+d.	Declarar métodos como públicos.
+
+3.	En Java, un método puede tener el mismo nombre en diferentes clases mientras pertenezcan a jerarquías distintas
+a.	Verdadero
+b.	Falso
+
+4.	Los métodos getters y setters son una buena practica para acceder a atributos privados.
+a.	Verdadero
+b.	Falso
+
+5.	¿Cuál de las siguientes afirmaciones sobre los constructores es verdadera?
+a.	Deben tener el mismo nombre que la clase
+b.	Siempre deben ser públicos
+c.	Solo puede haber uno por clase
+d.	No pueden recibir parámetros
+
+6.	¿Qué es la herencia en POO?
+a.	La conversión de tipos
+b.	La copia de código entre métodos
+c.	La capacidad de una clase de adquirir atributos y métodos de otra
+d.	El uso de clases anidadas
+
+7.	Una subclase puede acceder directamente a atributos private de la clase principal.
+a.	Verdadero
+b.	Falso 
+
+8.	La palabra this se usa para hacer referencia a la clase padre.
+a.	Verdadero
+b.	Falso
+
+9.	¿Qué hace @override?
+a.	Crea un nuevo constructor
+b.	Indica que un método esta siendo ocultado
+c.	Obliga a una clase a ser abstracta
+d.	Declara que un método sobrescribe uno de la clase principal
+
+10.	¿Cuál modificador de acceso permite que un miembro sea visible solo dentro de la misma clase?
+a.	Public
+b.	Protected
+c.	Private
+d.	Default
+
+11.	Una sublcase puede acceder directamente a atributos private de la clase principal.
+a.	Verdadero
+b.	Falso
+
+12.	En Java, el método main() debe ser public static void para que se ejecute como punto de entrada
+a.	Verdadero
+b.	Falso
+
+13.	¿Cuál es el propósito de una clase abstracta?
+a.	Instanciar objetos de forma directa
+b.	Contener solo atributos
+c.	Proveer una plantilla para clases hijas
+d.	Generar clases aleatorias
+
+14.	¿Qué es un objeto en Java?
+a.	Una función especial
+b.	Una variable global
+c.	Una instancia de una clase
+d.	Un tipo de método
+
+15.	La herencia en Java permite reutilizar código
+a.	Verdadero
+b.	Falso
+
+16.	Una clase puede heredar de más de una clase a la vez usando extends.
+a.	Verdadero
+b.	Falso
+
+17.	¿Qué hace el siguiente operador lógico en Java &&?
+a.	Compara si dos números son iguales
+b.	Evalúa si ambas condiciones son verdaderas
+c.	Asigna dos valores a la vez
+d.	Niega una condición
+
+18.	¿Qué hace la clase Scanner en Java?
+a.	Imprime texto en consola
+b.	Escanea redes
+c.	Lee datos del usuario desde teclado
+d.	Compara cadenas de texto
+
+19.	Una clase final puede ser heredada por otras clases.
+a.	Verdadero
+b.	Falso
+
+20.	Si una clase no define ningún constructor, Java crea uno por defecto sin parámetros.
+a.	Verdadero
+b.	Falso
