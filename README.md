@@ -3,13 +3,13 @@ Instrucciones del trabajo
 2.	Copia cada clase en su propio archivo .java con el nombre correspondiente.
 3.	El Main.java se usará para el menú de ejecución.
 4.	Archivos a crear:
-5.	Participante.java
+• Participante.java
 •	ParticipanteColegio.java
 •	ParticipanteUniversidad.java
 •	ParticipanteEmpresa.java
 •	ParticipanteSindicato.java
 •	Main.java
-Todos los participantes deben registrarse con los siguientes atributos comunes: 
+5.Todos los participantes deben registrarse con los siguientes atributos comunes: 
 •	Nombre 
 •	Edad 
 •	Género 
