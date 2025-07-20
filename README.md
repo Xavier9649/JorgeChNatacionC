@@ -36,6 +36,6 @@ o	Registrar nuevos participantes
 o	Ver la lista de participantes registrados 
 o	Ver solo los que sí pueden participar (según edad y salud) 
 
-Validar correctamente: 
+11. Validar correctamente: 
 o	Que la edad esté entre 18 y 25 años 
 o	Que la condición de salud sea “buena” (puede ser un booleano o un texto)
