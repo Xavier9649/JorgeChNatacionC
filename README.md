@@ -3,7 +3,7 @@ Instrucciones del trabajo
 2.	Copia cada clase en su propio archivo .java con el nombre correspondiente.
 3.	El Main.java se usará para el menú de ejecución.
 4.	Archivos a crear:
-•	Participante.java
+5.	Participante.java
 •	ParticipanteColegio.java
 •	ParticipanteUniversidad.java
 •	ParticipanteEmpresa.java
