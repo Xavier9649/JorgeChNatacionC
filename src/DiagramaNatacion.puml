@@ -1,0 +1,42 @@
+@startuml
+class Participante {
+- String nombre
+- int edad
+- String genero
+- boolean buenaSalud
+- String tipoEntidad
++ Participante()
++ boolean puedeParticipar()
++ String getInfo()
+}
+
+class ParticipanteColegio {
+- String nombreColegio
++ ParticipanteColegio()
++ String getInfo()
+}
+
+class ParticipanteUniversidad {
+- String nombreUniversidad
++ ParticipanteUniversidad()
++ String getInfo()
+}
+
+class ParticipanteEmpresa {
+- String nombreEmpresa
++ ParticipanteEmpresa()
++ String getInfo()
+}
+
+class ParticipanteSindicato {
+- String nombreSindicato
++ ParticipanteSindicato()
++ String getInfo()
+}
+
+Participante <|--ParticipanteColegio
+Participante <|--ParticipanteUniversidad
+Participante <|--ParticipanteEmpresa
+Participante <|--ParticipanteSindicato
+
+@enduml
